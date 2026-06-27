@@ -5,7 +5,7 @@
 A machine learning web app that predicts whether a customer will churn using Random Forest Classifier on the Telco Customer dataset.
 
 ## 🚀 Live Demo
-[Click here to open the app](https://your-app-link.streamlit.app)
+[Click here to open the app](https://customer-churn-sqrock-2dehiqkoanqnwyjbzpmfks.streamlit.app)
 
 ## 📌 Features
 - Upload any customer churn CSV dataset
